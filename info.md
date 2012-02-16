@@ -24,29 +24,42 @@ Expertise offered (sub page)
 
 Services Available
 
-Application / Platform Architecture 
-Product Development 
-Project Management
-Performance Tuning 
-Code Reviews / Analysis
-Database design and Implementation
-	Relational (RDBMS) - SQL, MySQL, PostGres
-	Non-Relational (NoSQL) - MongoDB, RavenDB, CouchDB
-Web Applications
-	Design
-	Implementation
-Data mining
-Machine Learning / Artificial Intelligence (AI)
+Consulting
+	Database design
+	Application / Platform Architecture 
+	Product Development 
+	Project Management
+	Interface between development teams and executive teams
+	Code Reviews / Analysis
+	Web Application Design
+	Data mining
+	Machine Learning / Artificial Intelligence (AI)
+		
+Development
+	Performance Tuning
+	Database Implementation
+	Web Application Implementation
+	Data mining
+	Machine Learning / Artificial Intelligence (AI)
+
 
 
 We are always willing to help on any number of platforms. Following is a list of some of the technologies we are currently using with our clients
 
-ASP.NET - MVC, WebForms, WCF
+Databases
+	Relational (RDBMS) - SQL, MySQL, PostGres
+	Non-Relational (NoSQL) - MongoDB, RavenDB, CouchDB
+
+Web Applications
+	ASP.NET - MVC, WebForms, WCF
+	Node.JS 
+	JSON
+	REST
+	WebServices
+
 Win-forms
-Node.JS 
-JSON
-REST
-WebServices
+
+Languages / Tooling currently in use
 Java, Javascript, HTML5, CSS3, C#, VB.Net, ruby, python
 R (data mining / AI tooling)
 Apache, Tomcat
@@ -54,3 +67,4 @@ Spring Configuration Framework
 AbInitio
 GitHub
 Git, SVN
+Django
