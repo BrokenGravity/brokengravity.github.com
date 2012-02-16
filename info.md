@@ -13,30 +13,44 @@ At BrokenGravity we have a simple goal: Enable business. Our primary focus is to
 
 How we do it
 
-We help our clients turn ideas into products, radically streamline business workflow, and even help other technology companies turn around struggling products.  We have also been successful at working with existing technology teams giving them tools and processes that allow them to be more efficient and enabled them to spend time innovating.
+We help our clients turn ideas into products, radically streamline business workflow, and have even helped other technology companies turn around struggling products.  We have also been successful at working with existing technology teams giving them tools and processes that allow them to be more efficient and enable them to spend time innovating.
 
 What have we done
 
-The experience BrokenGravity brings to the table is quite diverse.  We have worked on all sorts of projects ranging from billing systems to sophisticated pricing applications for financial institutions to name a few.
+The experience BrokenGravity brings to the table is quite diverse.  We have worked on all sorts of projects ranging from online transaction processing systems to sophisticated pricing applications for financial institutions.
 
 
-Expertise offered
+Expertise offered (sub page)
+
+Services Available
 
 Application / Platform Architecture 
 Product Development 
+Project Management
 Performance Tuning 
 Code Reviews / Analysis
 Database design and Implementation
 	Relational (RDBMS) - SQL, MySQL, PostGres
 	Non-Relational (NoSQL) - MongoDB, RavenDB, CouchDB
 Web Applications
+	Design
+	Implementation
+Data mining
+Machine Learning / Artificial Intelligence (AI)
 
 
 We are always willing to help on any number of platforms. Following is a list of some of the technologies we are currently using with our clients
 
 ASP.NET - MVC, WebForms, WCF
-Winforms
+Win-forms
 Node.JS 
 JSON
 REST
 WebServices
+Java, Javascript, HTML5, CSS3, C#, VB.Net, ruby, python
+R (data mining / AI tooling)
+Apache, Tomcat
+Spring Configuration Framework
+AbInitio
+GitHub
+Git, SVN
