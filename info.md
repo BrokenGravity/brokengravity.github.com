@@ -1,6 +1,6 @@
 # Broken Gravity
-innovation redefined 
-technology that works for you
+- innovation redefined
+- technology that works for you
 
 ## Who we are
 
