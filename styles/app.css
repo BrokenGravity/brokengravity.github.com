@@ -1,0 +1,44 @@
+/* Foundation v2.2.1 http://foundation.zurb.com */
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+#page_header{
+  background-color: #3c3c3c;
+  color: whitesmoke;
+
+  border-bottom: darkblue solid 10px;
+}
+#page_header h2 {
+  color: whitesmoke;
+  padding-top: 5px;
+  margin-bottom: 0;
+}
+
+#page_content {
+  background-color: white;
+}
+
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
