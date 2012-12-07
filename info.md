@@ -15,6 +15,9 @@ At BrokenGravity we have a simple goal: Enable business. Our primary focus is to
 
 We help our clients turn ideas into products, radically streamline business workflow, and have even helped other technology companies turn around struggling products.  We have also been successful at working with existing technology teams giving them tools and processes that allow them to be more efficient and enable them to spend time innovating.
 
+balance - work/play - innovation/practicality
+growth	
+
 ## What have we done
 
 The experience BrokenGravity brings to the table is quite diverse.  We have worked on all sorts of projects ranging from online transaction processing systems to sophisticated pricing applications for financial institutions.
