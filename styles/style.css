@@ -20,7 +20,7 @@ body {
 	top: 40px;
 	right: 50px;
 
-	/* border: black 2px solid;	*/
+	border: #3c3c3c 2px solid;
 }
 
 .brand {
@@ -31,7 +31,7 @@ body {
 
 	width: 435px;
 
-	background-color:rgba(0,0,0,0.7);
+	background-color:rgba(255,255,255,0.9);
 }
 
 .brand a {
@@ -64,7 +64,7 @@ body {
 
 }
 
-#slogan_bar {
+#directives {
 	color: #000000;
 	background-color: rgba(255,255,255,.6);
 
@@ -74,6 +74,7 @@ body {
 	list-style: none;
 	margin: 0;
 }
-.slogan {
+
+#directives li {
 	display: none;
 }

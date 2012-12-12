@@ -1,11 +1,11 @@
 (function(){
 	var curIndex = 0;
-	var showDuration = 5 * 1000; // Dealy in seconds
-	var slideCount = 4;
+	var showDuration = 3 * 1000; // Dealy in seconds
+	var slideCount = 5;
 	var $slogans;
 
 	$(document).ready(function(){
-		$slogans = $('.slogan');
+		$slogans = $('#directives li');
 
 		setTimeout(showNext, showDuration);
 	});
