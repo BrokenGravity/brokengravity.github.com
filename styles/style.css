@@ -18,11 +18,11 @@ body {
 
 #brand_bar {
 	position: absolute;
-	top: 0px;
-	right: 50px;	
+	right: 50px;
+	width: 250px;
 	text-align: center;
 	
-	padding-top: 40px;
+	padding-top: 20px;
 	padding-left: 10px;
 	padding-right: 10px;
 	background-color: rgba(0,0,0,.8);
@@ -34,9 +34,54 @@ body {
 	color: white;
 	font-family: times, helvetica;
 	font-size: 2.5em;
-
 }
 
+.brand_link { text-decoration: none; }
+
+#content_container {
+	position: absolute;
+	font-family: Helvetica;
+	background-color: rgba(255,255,255,0.9);
+	border-radius: 5px;
+	border: silver 2px solid;
+	padding: 20px;
+
+	display: none;
+
+	top: 200px;
+	left: 150px;
+	right: 150px;
+	bottom: 200px;
+	padding: 10px;
+}
+
+#content_container .close_link {
+	position: absolute;
+	right: 30px;
+}
+
+#content_container .content {
+	height: 100%;
+	display: none;
+}
+
+#content_container .header {
+	padding: 2px;
+	margin-bottom: 5px;
+}
+
+#content_container .info {
+	position: relative;
+	overflow: hidden;
+	overflow-y: scroll;
+	height: 90%;
+	padding: 5px;
+	border: silver 1px solid;
+}
+
+#content_container .content .header {
+
+}
 .slogan {
   color: white;
   font-size: 1.25em;
@@ -46,13 +91,14 @@ body {
 #menu {
 	border-top: black 2px solid;
 	list-style: none;
-	padding: 0;
-	padding-top: 10px;
+	margin: 5px 0;
+	padding: 5px 0;
+
 }
 
 #menu li {
 	display: inline;
-	padding: 10px;
+	padding: 5px;
 }
 
 #menu a {
