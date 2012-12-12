@@ -1,6 +1,6 @@
 (function(){
 	var curIndex = 0;
-	var showDuration = 3 * 1000; // Dealy in seconds
+	var showDuration = 2 * 1000; // Dealy in seconds
 	var slideCount = 5;
 	var $slogans;
 
