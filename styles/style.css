@@ -1,8 +1,10 @@
 html, body { margin: 0; padding: 0; }
+
 @font-face {
 	font-family: 'Prociono';
 	src: url("fonts/Prociono.otf") format("opentype");
 }
+
 body {
 	background: url(../images/Innsbruck-redux.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
@@ -13,31 +15,36 @@ body {
 	overflow: hidden;
 }
 
-#statement_bar {
+#brand_bar {
 	position: absolute;
 	top: 40px;
 	right: 50px;
 
-	border: black 2px solid;				
+	/* border: black 2px solid;	*/
 }
 
-.statement {
-	color: white;
-	font-size: 1.5em;
+.brand {
+	color: black;
+	font-size: 2.5em;
 	text-align: center;
 	padding: 10px;
 
-	width: 235px;
+	width: 435px;
 
 	background-color:rgba(0,0,0,0.7);
 }
 
-#brand_bar {
+.brand a {
+	color: black;
+	/*text-decoration: none;*/
+}
+
+#statement_bar {
 	position: absolute;
 	bottom: 100px;
 	
 	width: 100%;
-	left: 220px;		
+	left: 340px;		
 
 	font-family: 'Prociono', Helvetica, Verdana, Sans-Serif;
 	font-size: 1.8em;
@@ -45,18 +52,18 @@ body {
 	line-height: 40px;
 
 }
-.brand {
+.statement {
 	float: left;
-	width: 195px;
-	margin-left: -220px;
+	width: 315px;
+	margin-left: -340px;
 	padding: 10px;
 
-	background-color: rgba(255,255,255,.9);
+/*	background-color: rgba(255,255,255,.9);*/
+  color: white;
+	background-color:rgba(0,0,0,0.7);
+
 }
-.brand a {
-	color: #000066;
-	text-decoration: none;
-}
+
 #slogan_bar {
 	color: #000000;
 	background-color: rgba(255,255,255,.6);
