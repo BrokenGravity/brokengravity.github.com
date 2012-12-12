@@ -74,7 +74,7 @@ body {
 	position: relative;
 	overflow: hidden;
 	overflow-y: scroll;
-	height: 90%;
+	height: 85%;
 	padding: 5px;
 	border: silver 1px solid;
 }
